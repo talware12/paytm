@@ -8,11 +8,11 @@ import org.openqa.selenium.support.PageFactory;
 public class Headerp {
 	
 	//@FindBy (xpath = "//a[text()='Company']" )
-	private WebElement Company;
+	//private WebElement Company;
 	
 	
 	//@FindBy (xpath ="(//a[text()='Blog'])[1]")
-	private WebElement Blog;
+	//private WebElement Blog;
 	 
 	
 	
