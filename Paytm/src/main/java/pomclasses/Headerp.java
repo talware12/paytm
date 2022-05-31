@@ -18,7 +18,7 @@ public class Headerp {
 	
 	
 	
-	public Headerp (WebDriver driver)
+	/*public Headerp (WebDriver driver)
 	{
 		PageFactory.initElements(driver,this);
 	}
@@ -26,7 +26,7 @@ public class Headerp {
 	public void ClickonCompany() {
 		Company.click();
 		
-	}
+	}*/
 	
 	public void ClickonBlog()
 	{
