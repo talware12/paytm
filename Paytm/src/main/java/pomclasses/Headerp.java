@@ -18,20 +18,20 @@ public class Headerp {
 	
 	
 	
-	/*public Headerp (WebDriver driver)
+	public Headerp (WebDriver driver)
 	{
 		PageFactory.initElements(driver,this);
 	}
 	 
-	public void ClickonCompany() {
-		Company.click();
+	//public void ClickonCompany() {
+	//	Company.click();
 		
-	}*/
+	//}
 	
-	public void ClickonBlog()
-	{
-		 Blog.click();
-	}
+//	public void ClickonBlog()
+	//{
+		// Blog.click();
+	//}
 
 	
 	
