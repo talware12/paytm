@@ -7,11 +7,11 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Headerp {
 	
-	@FindBy (xpath = "//a[text()='Company']" )
+	//@FindBy (xpath = "//a[text()='Company']" )
 	private WebElement Company;
 	
 	
-	@FindBy (xpath ="(//a[text()='Blog'])[1]")
+	//@FindBy (xpath ="(//a[text()='Blog'])[1]")
 	private WebElement Blog;
 	 
 	
@@ -23,15 +23,15 @@ public class Headerp {
 		PageFactory.initElements(driver,this);
 	}
 	 
-	//public void ClickonCompany() {
-	//	Company.click();
+	public void ClickonCompany() {
+		Company.click();
 		
-	//}
+	}
 	
-//	public void ClickonBlog()
-	//{
+    public void ClickonBlog()
+	{
 		// Blog.click();
-	//}
+	}
 
 	
 	
